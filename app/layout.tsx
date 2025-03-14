@@ -9,11 +9,6 @@ export const metadata: Metadata = {
     "Servicios profesionales de desarrollo web especializados en sitios web modernos y responsivos y aplicaciones web",
   keywords: "desarrollo web, portafolio, diseño web, diseño responsivo, UI/UX, React, Next.js, Francisco González",
   generator: "v0.dev",
-  icons: {
-    icon: "/favicon.ico", // Para favicon estándar
-    shortcut: "/favicon.ico", // Para navegadores que usan "shortcut icon"
-    // apple: "/apple-touch-icon.png", // Para dispositivos Apple
-  },
 }
 
 export default function RootLayout({

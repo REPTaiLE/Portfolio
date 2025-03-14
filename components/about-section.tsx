@@ -74,19 +74,24 @@ export default function AboutSection() {
           >
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center lg:text-left">
-                Desarrollador Web Apasionado
+                Desarrollador Web & Diseñador Apasionado
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed mx-auto lg:mx-0">
-                Soy Francisco González, actualmente trabajo en desarrollo de software y automatizaciones. Sin embargo, soy un apasionado por el desarrollo web!
+                Soy Francisco González, un desarrollador y diseñador web con pasión por crear sitios web y aplicaciones
+                hermosas y funcionales que ofrecen experiencias excepcionales.
               </p>
             </div>
             <div className="space-y-4">
               <p className="text-muted-foreground text-center lg:text-left">
-                Con más de 2 años de experiencia en desarrollo web, he ido creando mis propias soluciones web y puliendo mis habilidades a través del tiempo. Mi enfoque está principalmente en páginas sencillas, escalables y modernas que son funcionales pero que también tienen estilo!
+                Con más de 5 años de experiencia en la industria, he trabajado con clientes de diversos sectores para
+                dar vida a sus visiones digitales. Mi enfoque combina experiencia técnica con resolución creativa de
+                problemas para ofrecer soluciones que no solo se ven geniales, sino que también funcionan
+                excepcionalmente bien.
               </p>
               <p className="text-muted-foreground text-center lg:text-left">
-                Mi misión es ayudar a las pequeñas empresas que no tienen presencia digital, ya que no estar en la web es una pérdida importante de oportunidades. Déjame ayudarte a buscar la solución más adecuada para ti, a establecer una fuerte presencia en línea a través de un diseño
-                cuidadoso y un desarrollo robusto. 
+                Mi misión es ayudar a las empresas a establecer una fuerte presencia en línea a través de un diseño
+                cuidadoso y un desarrollo robusto. A medida que crezco, mi visión es expandirme a una agencia web de
+                servicio completo que proporcione soluciones digitales integrales a clientes de todo el mundo.
               </p>
             </div>
           </motion.div>

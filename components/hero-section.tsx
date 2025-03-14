@@ -41,7 +41,7 @@ export default function HeroSection() {
               transition={{ duration: 0.7, delay: 0.2, ease: "easeOut" }}
               className="text-muted-foreground md:text-xl mx-auto"
             >
-              Creando sitios web y soluciones hermosas y funcionales que elevan tu marca.
+              Creando sitios web y aplicaciones hermosas y funcionales que elevan tu marca y conectan con tu audiencia.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -53,7 +53,7 @@ export default function HeroSection() {
                 className="bg-blue-600 hover:bg-blue-700 transition-all duration-300 hover:scale-105 hover:shadow-md"
                 onClick={(e) => handleNavClick(e, "portfolio")}
               >
-                Mi Trabajo
+                Ver Portafolio
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
               <Button

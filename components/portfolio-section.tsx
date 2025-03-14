@@ -11,10 +11,10 @@ const projects = [
   {
     id: 1,
     title: "Ne0nB1t",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZUQkFaThTmH1Rbmr8HKzt1eJYGJnkU.png",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-vyblVBujywvZHEBbIBDSCmHRh2Aknl.png",
     description:
-      "Tienda online de productos tecnológicos con diseño minimalista y moderno. Plataforma e-commerce especializada en accesorios tech de alta calidad.",
-    tags: ["Next.js", "React", "Tailwind CSS", "Stripe", "Sanity.io"],
+      "Tienda en línea de accesorios tecnológicos con diseño cyberpunk y minimalista. Experiencia de compra moderna y atractiva para productos tech.",
+    tags: ["Next.js", "React", "Tailwind CSS", "Shopify", "TypeScript"],
     url: "https://ne0nb1t.com",
   },
   {

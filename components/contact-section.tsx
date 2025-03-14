@@ -18,7 +18,7 @@ export default function ContactSection() {
           >
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Ponte en Contacto</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              ¿Tienes alguna idea en mente? Programa una cita conmigo.
+              ¿Tienes un proyecto en mente o quieres discutir una colaboración? Programa una cita conmigo.
             </p>
           </motion.div>
         </div>
@@ -34,7 +34,8 @@ export default function ContactSection() {
               <Calendar className="h-12 w-12 text-blue-600 mx-auto" />
               <h3 className="text-xl font-semibold text-center">Agenda una Cita</h3>
               <p className="text-center text-muted-foreground">
-                Utiliza mi calendario en línea para programar una reunión en un horario que te convenga. Conversaremos acerca de qué ideas tienes y qué recomendaciones puedo darte para crear una solución acorde a tus necesidades.
+                Utiliza mi calendario en línea para programar una reunión en un horario que te convenga. Discutiremos tu
+                proyecto y cómo puedo ayudarte a alcanzar tus objetivos.
               </p>
               <Button
                 className="w-full bg-blue-600 hover:bg-blue-700 transition-all duration-300 hover:scale-[1.02] hover:shadow-md"

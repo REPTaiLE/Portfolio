@@ -122,7 +122,7 @@ export default function Header() {
                 className="bg-blue-600 hover:bg-blue-700 transition-all duration-300 hover:scale-105 hover:shadow-md"
                 onClick={() => window.open("https://calendly.com/gonzalezferradafrancisco", "_blank")}
               >
-                Hablemos!
+                Hablemos
               </Button>
             )}
           </nav>
@@ -220,7 +220,7 @@ export default function Header() {
                       window.open("https://calendly.com/gonzalezferradafrancisco", "_blank")
                     }}
                   >
-                    Hablemos!
+                    Hablemos
                   </Button>
                 </motion.div>
               )}
