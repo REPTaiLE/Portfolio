@@ -14,7 +14,7 @@ const projects = [
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-vyblVBujywvZHEBbIBDSCmHRh2Aknl.png",
     description:
       "Tienda en línea de accesorios tecnológicos con diseño cyberpunk y minimalista. Experiencia de compra moderna y atractiva para productos tech.",
-    tags: ["Next.js", "React", "Tailwind CSS", "Shopify", "TypeScript"],
+    tags: ["Liquid", "Shopify Apps", "Shopify"],
     url: "https://ne0nb1t.com",
   },
   {
@@ -34,9 +34,9 @@ export default function PortfolioSection() {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Proyectos Destacados</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Mi Trabajo</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Explora algunos de mis trabajos recientes y soluciones creativas
+              Explora los proyectos y soluciones que he construido
             </p>
           </div>
         </div>

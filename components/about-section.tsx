@@ -74,24 +74,16 @@ export default function AboutSection() {
           >
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center lg:text-left">
-                Desarrollador Web & Diseñador Apasionado
+                Desarrollador Web Apasionado
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed mx-auto lg:mx-0">
-                Soy Francisco González, un desarrollador y diseñador web con pasión por crear sitios web y aplicaciones
-                hermosas y funcionales que ofrecen experiencias excepcionales.
+                Soy Francisco González, actualmente me desempeño en el área de Desarrollo de Software y Automatización. Sin embargo, soy un apasionado por el Desarrollo Web!, por construir soluciones para el navegador que mezclen el estilo, la funcionalidad y escalabilidad.
               </p>
             </div>
             <div className="space-y-4">
               <p className="text-muted-foreground text-center lg:text-left">
-                Con más de 5 años de experiencia en la industria, he trabajado con clientes de diversos sectores para
-                dar vida a sus visiones digitales. Mi enfoque combina experiencia técnica con resolución creativa de
-                problemas para ofrecer soluciones que no solo se ven geniales, sino que también funcionan
-                excepcionalmente bien.
-              </p>
-              <p className="text-muted-foreground text-center lg:text-left">
-                Mi misión es ayudar a las empresas a establecer una fuerte presencia en línea a través de un diseño
-                cuidadoso y un desarrollo robusto. A medida que crezco, mi visión es expandirme a una agencia web de
-                servicio completo que proporcione soluciones digitales integrales a clientes de todo el mundo.
+                Con más de 3 años de experiencia en el Desarrollo Web, empecé a construir Webs como un simple pasatiempo. Poco a poco fui puliendo mis habilidades y ahora he decidido ayudar a las pequeñas empresas a lograr una presencia digital fuerte. Mi enfoque combina mi experiencia técnica y resolución creativa de
+                problemas para ofrecer soluciones que no solo se ven geniales, sino que también son funcionales.
               </p>
             </div>
           </motion.div>

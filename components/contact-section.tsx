@@ -18,7 +18,7 @@ export default function ContactSection() {
           >
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Ponte en Contacto</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              ¿Tienes un proyecto en mente o quieres discutir una colaboración? Programa una cita conmigo.
+              ¿Tienes alguna idea en mente? Programa una cita conmigo!
             </p>
           </motion.div>
         </div>

@@ -8,7 +8,7 @@ const services = [
   {
     icon: <Layout className="h-10 w-10 mb-4 text-blue-600" />,
     title: "Diseño Web",
-    description: "Creación de diseños hermosos e intuitivos que mejoran la experiencia y el compromiso del usuario.",
+    description: "Creación de diseños estéticos e intuitivos que mejoran la experiencia y el compromiso del usuario.",
   },
   {
     icon: <Code className="h-10 w-10 mb-4 text-blue-600" />,
@@ -44,9 +44,9 @@ export default function ServicesSection() {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Lo Que Ofrezco</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">¿En Qué Te Puedo Ayudar?</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Soluciones web integrales para ayudar a tu negocio a tener éxito en línea
+              En construir soluciones web integrales en base a tus necesidades
             </p>
           </div>
         </div>
